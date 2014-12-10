@@ -1,0 +1,58 @@
+    7  git clone https://github.com/kayi-lef/hello-world.git
+   11  git status
+   12  git branch
+   13  git status;
+   14  git blanch
+   15  git branch
+   16  git status;
+   17  git pull
+   18  git branch
+   19  git branch my-test
+   20  git branch
+   21  git branch -a
+   22  git branch -r
+   23  git remote show origin
+   24  git checkout mytest
+   25  git checkout my-test
+   26  git remote show origin
+   29  git status;
+   30  git branch
+   31  git add test.txt 
+   32  git status;
+   33  git push commit -m "test commit branch" 
+   34  git commit -m "test commit branch" 
+   35  git config --global user.email "kayi@leflaboratory.com"
+   36  git config --global user.name "Keiichi Ito"
+   37  git commit -m "test commit branch" 
+   38  git push
+   39  git --version
+   40  git push --set-upstream origin my-test
+   41  git push --set-upstream origin my-test
+   42  git push --set-upstream origin my-test
+   43  git push --set-upstream origin my-test
+   53  git clone https://github.com/kayi-lef/hello-world.git
+   57  git branch origin my-test
+   58  git remote show origin
+   59  git checkout my-test
+   60  git remote show origin
+   61  git pull 
+   67  git status
+   69  git add test.txt 
+   70  git commit -m "next change"
+   71  history | egrep git
+   72  git push --set-upstream origin my-test
+   75  git pull
+   80  git branch
+   81  history | egrep git
+   82  git remote show origin
+   83  git commit -m "from lef2"
+   84  git add test.txt 
+   85  git commit -m "from lef2"
+   86  git push
+   87  history | egrep git
+   88  git config --global credential.helper 'cache --timeout=300'
+   89  git push --set-upstream origin my-test
+   92  git add test.txt 
+   93  git commit -m "from lef2 second"
+   94  git push --set-upstream origin my-test
+   95  history | egrep git > git.his
